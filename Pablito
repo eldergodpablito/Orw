@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+.bord {border-style: inset;
+padding: 25px;
+border-width: 50px;
+border-color: hotpink red blue lightgreen;
+margin: 0 auto;
+font-family: helvetica ;
+}
+body {
+  background-image: url('https://www.xmple.com/wallpaper/blue-gradient-white-linear-1920x1080-c2-87cefa-ffffff-a-105-f-14.svg');
+}
+</style>
+</head>
+<body>
+<div>
+<h1 class="bord" align="center" style="font-size:75px;">
+My Gallery
+</h1>
+</div>
+</body>
+</html>
