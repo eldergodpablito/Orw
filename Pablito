@@ -3,14 +3,19 @@
 <head>
 <style>
 .bord {border-style: inset;
-padding: 25px;
+padding: 0px;
 border-width: 50px;
-border-color: hotpink red blue lightgreen;
+border-color: grey;
 margin: 0 auto;
-font-family: helvetica ;
+font-family: cursive ;
+color: white;
+}
+.fmg {
+padding-top:25px;
+padding-left:15px;
 }
 body {
-  background-image: url('https://www.xmple.com/wallpaper/blue-gradient-white-linear-1920x1080-c2-87cefa-ffffff-a-105-f-14.svg');
+  background-image: url('https://sophosnews.files.wordpress.com/2019/04/shutterstock_407554567-compressor-1.jpg?w=780&h=408&crop=1');
 }
 </style>
 </head>
@@ -19,6 +24,9 @@ body {
 <h1 class="bord" align="center" style="font-size:75px;">
 My Gallery
 </h1>
+</div>
+<div class="fmg" >
+<img src="https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/inzuqhcz6vvxpdodiuph.png" width="300">
 </div>
 </body>
 </html>
